@@ -1,6 +1,6 @@
 # ¡Hola! Soy Miqueias 👋
 
-Soy un desarrollador web Full-Stack con experiencia en **React**, **JavaScript**, **PHP** y **MySQL**. He trabajado en la creación de sistemas de pedidos online, e-commerce y proyectos con integración de **Spline** para elementos 3D.
+Desarrollador Full Stack en formación, actualmente cursando el Técnico Superior en Desarrollo de Aplicaciones Web en Universae, con experiencia en **React**, **JavaScript**, **PHP** y **MySQL**. He trabajado en la creación de sistemas de pedidos online, e-commerce y proyectos con integración de **Spline** para elementos 3D.
 
 Siempre estoy mejorando mis habilidades para crear soluciones digitales efectivas y funcionales.
 
