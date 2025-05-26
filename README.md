@@ -1,6 +1,6 @@
 # ¡Hola! Soy Miqueias 👋
 
-Desarrollador FRONTEND, formado como Técnico Superior en Desarrollo de Aplicaciones Web en Universae, con experiencia práctica y conocimientos en TypeScript, React, Axios, Tailwind CSS, Node.js, Git y GitHub. He trabajado en entornos ágiles participando en sprints, gestionando tareas asignadas, ramas y pull requests bajo buenas prácticas de control de versiones.
+Desarrollador FRONTEND, formado como Técnico Superior en Desarrollo de Aplicaciones Web en Universae, con experiencia práctica y conocimientos en TypeScript, React, Axios, Tailwind CSS, Node.js, Git y GitHub. He trabajado en entornos ágiles participando activamente en sprints, reuniones de seguimiento (dailys) y planificación de tareas mediante herramientas como Jira y Trello. Me enfoqué en la ejecución eficiente de tareas asignadas, la resolución de bugs y la mejora continua del código. Además, gestioné ramas (branches) y pull requests, aplicando buenas prácticas de control de versiones con Git, garantizando integraciones limpias y colaboraciones efectivas dentro del equipo. También apliqué principios básicos de DevOps, colaborando en la automatización de despliegues y gestión de entornos de desarrollo mediante GitHub Actions y Azure DevOps.
 
 Me especializo en transformar ideas en soluciones digitales impactantes, diseñando experiencias que no solo funcionan, sino que marcan la diferencia. 
 
