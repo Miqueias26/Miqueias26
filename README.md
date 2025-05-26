@@ -1,8 +1,12 @@
 # ¡Hola! Soy Miqueias 👋
 
-Desarrollador FRONTEND, formado como Técnico Superior en Desarrollo de Aplicaciones Web en Universae, con experiencia práctica y conocimientos en TypeScript, React, Axios, Tailwind CSS, Node.js, Git y GitHub. He trabajado en entornos ágiles participando activamente en sprints, reuniones de seguimiento (dailys) y planificación de tareas mediante herramientas como Jira y Trello. Me enfoqué en la ejecución eficiente de tareas asignadas, la resolución de bugs y la mejora continua del código. Además, gestioné ramas (branches) y pull requests, aplicando buenas prácticas de control de versiones con Git, garantizando integraciones limpias y colaboraciones efectivas dentro del equipo. También apliqué principios básicos de DevOps, colaborando en la automatización de despliegues y gestión de entornos de desarrollo mediante GitHub Actions y Azure DevOps.
+Desarrollador Frontend, titulado como Técnico Superior en Desarrollo de Aplicaciones Web por Universae, con experiencia práctica en el desarrollo de interfaces modernas utilizando TypeScript, React, Axios, Tailwind CSS, Node.js, Git y GitHub.
 
-Me especializo en transformar ideas en soluciones digitales impactantes, diseñando experiencias que no solo funcionan, sino que marcan la diferencia. 
+He trabajado en entornos ágiles, participando activamente en sprints, reuniones diarias (dailys) y planificación de tareas mediante herramientas como Jira y Trello. Me enfoqué en la ejecución eficiente de tareas asignadas, resolución de bugs y mejora continua del código. Además, gestioné ramas (branches) y pull requests, aplicando buenas prácticas de control de versiones con Git, garantizando integraciones limpias y una colaboración fluida con el equipo.
+
+También he aplicado principios básicos de DevOps, colaborando en la automatización de despliegues y la gestión de entornos de desarrollo mediante GitHub Actions y Azure DevOps.
+
+🎯 Mi objetivo es transformar ideas en soluciones digitales impactantes, creando experiencias interactivas que no solo funcionan, sino que realmente marcan la diferencia.
 
 ---
 
