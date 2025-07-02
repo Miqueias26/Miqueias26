@@ -1,10 +1,16 @@
-# ¡Hola! Soy Miqueias 👋
+# ¡Hola! Soy Miqueias 
 
-Desarrollador Frontend, titulado como Técnico Superior en Desarrollo de Aplicaciones Web por Universae, con experiencia práctica en el desarrollo de interfaces modernas utilizando TypeScript, React, Axios, Tailwind CSS, Node.js, Git y GitHub.
+ Desarrollador full stack con formación técnica en Desarrollo de Aplicaciones Web por Universae.
 
-He trabajado en entornos ágiles, participando activamente en sprints, reuniones diarias (dailys) y planificación de tareas mediante herramientas como Jira y Trello. Me enfoqué en la ejecución eficiente de tareas asignadas, resolución de bugs y mejora continua del código. Además, gestioné ramas (branches) y pull requests, aplicando buenas prácticas de control de versiones con Git, garantizando integraciones limpias y una colaboración fluida con el equipo.
+Me apasiona crear aplicaciones web completas, desde el diseño y la interfaz hasta la lógica del servidor y la base de datos. Trabajo principalmente con React, TypeScript, Tailwind CSS, Node.js y Express, y tengo experiencia con bases de datos como MongoDB y MySQL.
 
-También he aplicado principios básicos de DevOps, colaborando en la automatización de despliegues y la gestión de entornos de desarrollo mediante GitHub Actions y Azure DevOps.
+He participado en proyectos reales en equipo, usando metodologías ágiles con sprints, estimación de tiempos, planificación de tareas y reuniones diarias (dailys), apoyándome en herramientas como Jira y Trello.
+
+Además, me gusta mantener un código claro, limpio y sostenible, resolver problemas con eficiencia y seguir buenas prácticas para aportar valor al trabajo en equipo.
+
+También cuento con conocimientos en DevOps, automatizando despliegues y flujos CI/CD con GitHub Actions y Azure DevOps.
+
+Estoy siempre abierto a aprender nuevas tecnologías y mejorar día a día. ¡Explora mis proyectos y no dudes en contactarme!
 
 🎯 Mi objetivo es transformar ideas en soluciones digitales impactantes, creando experiencias interactivas que no solo funcionan, sino que realmente marcan la diferencia.
 
