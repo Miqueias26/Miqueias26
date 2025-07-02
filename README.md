@@ -1,4 +1,4 @@
-# ¡Hola! Soy Miqueias 
+# ¡Hola! Soy Miqueias 👨🏽‍💻
 
  Desarrollador full stack con formación técnica en Desarrollo de Aplicaciones Web por Universae.
 
